@@ -32,30 +32,4 @@ Passionné par le développement web et la gestion de projets digitaux. Licenci�
 ![Drupal](https://img.shields.io/badge/-Drupal-0678BE?style=flat-square&logo=drupal)
 ![Prestashop](https://img.shields.io/badge/-Prestashop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
 
-### 🚀 Projets Récents
-
-- **PEKHE**: Gestion des agents de sécurité et de leur planning
-- **TBO**: Application de gestion des activités commerciales
-- **SANGOMAR**: Système de gestion des interventions SSI
-- **DEGGO**: Plateforme de gestion de projets
-
-### 🌟 Expérience Professionnelle
-
-**Chef de projet digital** @ Vigilus Groupe SA _(Jan 2022 - Mai 2024)_
-- Développement de sites web corporatifs et d'applications sur mesure
-- Coordination de l'équipe marketing digital
-- Élaboration et mise en œuvre de stratégies digitales
-
-### 🎓 Formation
-
-- **Licence en Génie Logiciel** - Haute École de Management et d'Informatique _(2019 - 2022)_
-
-### 🌐 Langues
-
-- Français (niveau académique)
-- Anglais (niveau professionnel)
-- Wolof (langue maternelle)
-
----
-
 💼 Ouvert aux opportunités de collaboration sur des projets web innovants !
